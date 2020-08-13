@@ -1,0 +1,24 @@
+.scoreBord{
+    width: 300px;
+    height: 400px;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #333333;
+}
+
+.score-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.score-container > div{
+    letter-spacing: 2px;
+    color: white;
+    margin: .5rem;
+    font-family: Pixel, Arial, Helvetica, sans-serif;
+}
+
+.btn-container{
+    height: 400px;
+}

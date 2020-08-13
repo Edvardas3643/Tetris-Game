@@ -1,9 +1,8 @@
 import React from 'react';
-import Tetris from './components/Tetris';
-
+import Menu from './pages/menu/Menu'
 const App = () => (
   <div className="App">
-    <Tetris />
+      <Menu/>
   </div>
 );
 
